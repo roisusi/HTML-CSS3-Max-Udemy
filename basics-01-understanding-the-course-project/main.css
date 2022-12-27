@@ -1,0 +1,18 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#product-overview h1 {
+  /* this is the best way to inherits: ;*/
+  color: white;
+  font-family: "Anton", sans-serif;
+}
+
+#product-overview {
+  background: #ff1b68;
+}
+
+.section-title {
+  color: #2ddf5c;
+  /* font-family: inherit; one way of inhericantce  */
+}
